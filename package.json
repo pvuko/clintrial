@@ -1,0 +1,20 @@
+{
+  "name": "clintrial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvuko/clintrial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvuko/clintrial/issues"
+  },
+  "homepage": "https://github.com/pvuko/clintrial#readme"
+}
